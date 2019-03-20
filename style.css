@@ -1,5 +1,23 @@
 body{
-    color:red;
-    border: 1px solid steelblue;
-    background: #000;
+    background: skyblue;
+}
+.form-wrapper {
+    border: 1px solid;
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+}
+li {
+    list-style: none;
+    margin-bottom: 5px;
+}
+.mark {
+    display: inline-block;
+    width: 100px;
+    text-align: justify;
+    text-align-last: justify;
+}
+input {
+    margin-left: 10px;
+    padding: 3px;
 }
